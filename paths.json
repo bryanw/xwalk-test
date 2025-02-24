@@ -1,5 +1,10 @@
 {
   "mappings": [
-    "/content/xwalk-test-3/nav.html:/nav"
+    "/content/xwalk-test/:/",
+    "/content/xwalk-test/configuration:/.helix/config.json",
+    "/content/xwalk-test/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/xwalk-test/"
   ]
 }
