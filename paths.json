@@ -1,8 +1,5 @@
 {
   "mappings": [
     "/content/xwalk-test-3/:/"
-  ],
-  "includes": [
-    "/content/xwalk-test-3/"
   ]
 }
